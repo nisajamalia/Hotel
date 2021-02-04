@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">HotelAppsKotlin</string>
+    <string name="title">Title</string>
+    <string name="alamat">Alamat</string>
+    <string name="desc">description</string>
+    <string name="textJudul">Today,Wednesday</string>
+    <string name="more">More</string>
+    <string name="lable_search">Search</string>
+    <string name="lable_nav_home">Home</string>
+    <string name="lable_booking">MyBooking</string>
+    <string name="lable_inbox">MyInbox</string>
+    <string name="lable_history">History</string>
+    <string name="lable_profile">Profile</string>
+    <string-array name="title">
+        <item>Amanjiwo Resorts</item>
+        <item>Park Hyatt</item>
+        <item>Rosewood</item>
+        <item>Fairmont</item>
+        <item>Belmond</item>
+        <item>Taj Hotels n Resorts</item>
+        <item>The Peninsula Hotels</item>
+        <item>AYANA Resort</item>
+        <item>Khayangan Estate</item>
+        <item>Bulgari Resort Bali</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Aman Resorts adalah hotel mewah dengan 50 kamar yang sangat terkenal di Indonesia. Hotel di Desa Majaksingi, Borobudur, Jawa Tengah, ini memberikan suguhan yang sangat indah untuk menikmati sore dengan sudut pandang candi Borobudur. Menampilkan konsep yang tradisional dan pelayanan ramah membuat resort yang mulai membuka cabang di Tokyo, Delhi, dan Beijing</item>
+        <item>Park Hyatt adalah hotel yang terletak di New York. Hadir dengan fasilitas mewah seperti lapangan golf dan ski, Park Hyatt menjadi hotel yang baik untuk para traveller atau pun perjalanan bisnis. Bahkan Park Hyatt menghadirkan berbagai properti bersejarah di dunia yang dapat dijumpai pada sudut-sudut hotel.</item>
+        <item>Berdiri sejak 1979, Rosewood London menawarkan konsep villa dengan nuansa kerajaan Inggris. Hotel ini tidak sekedar menjadi tempat menginap saja bahkan menjadi salah satu tujuan wisata para pelancong.</item>
+        <item>Tersebar di 20 negara di dunia, Fairmont dikenal sebagai hotel yang memiliki banyak properti bersejarah. Pemilihan lokasi hotel Fairmont pun tidak sembarangan. Salah satu contohnya Fairmont di Alberta yang berada di tengah hutan pinus dan terkesan sangat klasik.</item>
+        <item>Kereta mewah dan kapal pesiar adalah ciri unik yang dimiliki oleh Belmond yang tidak dimiliki hotel mana pun di dunia. Selain itu Belmond juga memilih lokasi yang unik yang tidak pernah terpikirkan seperti Iguazu Falls atau pulau Vanesia, sehingga menghadirkan kesan eksklusif kepada tamunya.</item>
+        <item>Taj Hotels n Resorts adalah hotel terbesar dan terbaik di India. Menghadirkan pelayanan yang kental dengan adat India ditambah properti bersejarah yang digunakan membuat penghuni akan merasakan sensasi berada di dalam kerajaan India.</item>
+        <item>The Peninsula Hotels yang berada di Hong Kong merupakan salah satu hotel tertua di dunia yang dibangun tahun 1866. Semua properti yang ada di hotel diproduksi sendiri oleh pihak The Peninsula. Layanan mewah seperti lapangan golf dan mobil mahal juga tidak lepas dari layanan yang ditawarkan hotel ini.</item>
+        <item>Uniknya, hotel ini memiliki cukup banyak pilihan kolam renang untuk berbagai selera dan umur, seperti Infinity Edged Pool, Ocean Beach Pool, River Pool, dan tak ketinggalan kolam renang anak (Children’s Pool).\n
+        Tapi kalau berenang di kolam bukan kegemaran Anda, langsung saja melipir ke pantai tersembunyi, Pantai Kuta. Beda dengan Pantai Kuta yang anda kenal, pantai ini adalah pantai pribadi yang tentunya sepi, sehingga Anda bisa bersantai dengan tenang.</item>
+        <item>Seperti namanya, Khayangan Estate memang luar biasa indah. Bahkan Anda tidak dapat menilainya hanya melalui foto saja, harus melihat langsung.</item>
+        <item>Nama tersohor Bulgari Hotels n Resorts cukup populer karena pemandangan tebing lautnya yang langsung menghadap Samudera Hindia. Tapi bukan cuma itu yag menarik dari hotel ini.</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>Belanda</item>
+        <item>Korea</item>
+        <item>Swiss</item>
+        <item>Indonesia</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>Jakarta</item>
+        <item>UKA</item>
+        <item>Rusia</item>
+        <item>Turki</item>
+    </string-array>
+
+
+
+    <array name="image">
+        <item>@drawable/hotelaman</item>
+        <item>@drawable/hotelparkhyatt</item>
+        <item>@drawable/hotelrosewood</item>
+        <item>@drawable/hotelfairmont</item>
+        <item>@drawable/hotelbellmond</item>
+        <item>@drawable/hoteltaj</item>
+        <item>@drawable/hotelpeninsula</item>
+        <item>@drawable/hotelbali</item>
+        <item>@drawable/hotelbali2</item>
+        <item>@drawable/hotelbali3</item>
+    </array>
+
+    <string-array name="data_price">
+        <item>Rp 50.000</item>
+        <item>Rp 89.000</item>
+        <item>Rp 23.000</item>
+        <item>Rp 44.000</item>
+        <item>Rp 28.000</item>
+        <item>Rp 50.000</item>
+        <item>Rp 89.000</item>
+        <item>Rp 23.000</item>
+        <item>Rp 44.000</item>
+        <item>Rp 28.000</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lable_name">Judul</string>
+    <string name="lable_address">address</string>
+    <string name="populer">Most Popular</string>
+    <string name="see">See all</string>
+    <string name="lable_name_kind">kind</string>
+    <string name="lable_name_address">address</string>
+    <string name="lable_name_desc">desc</string>
+    <string name="lable_kind">kind</string>
+    <string name="popular">Popular</string>
+    <string name="lable_category_pempek">Pem-pek</string>
+    <string name="lable_category_truffle">Truffle</string>
+    <string name="lable_category_nasgor">Nasi Goreng wagyu</string>
+    <string name="lable_category_macaron">macaron</string>
+    <string name="lable_category_bakpia">bakpia</string>
+    <string name="lable_category_coto">coto makasr</string>
+    <string name="lable_category_kebab">kebab</string>
+    <string name="lable_category_stroberry">starwberry margarita</string>
+    <string name="lable_category_jkt">Jakarta</string>
+    <string name="lable_category_palembang">Palembang</string>
+    <string name="lable_category_lampung">Lampung</string>
+    <string name="lable_category_kalimantan">Kalimantan</string>
+    <string name="lable_category_surabaya">Surabaya</string>
+    <string name="lable_category_makasar">Makasar</string>
+    <string name="lable_category_bandung">Bandung</string>
+    <string name="lable_category_malang">Malang</string>
+    <string name="lable_map">Maps</string>
+    <string name="name">Name</string>
+    <string name="rating">Rating</string>
+    <string name="harga">Price</string>
+    <string name="visit">Visit us</string>
+    <string name="order">Order now</string>
+</resources>
